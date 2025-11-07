@@ -1,4 +1,2 @@
 # odin-recipes
-
- This is my first ever coding project done with HTML!
-It is a recipe website!
+Simple Recipe website that incorporates simple html. The goal of this repo is to experiment with html to gain a deep understanding of the basic elements. 
